@@ -1,5 +1,5 @@
 {
-  "name": "@qnpm/ykit-config-sass",
+  "name": "ykit-config-sass",
   "version": "0.2.0",
   "description": "ykit 编译 SASS/SCSS 插件",
   "main": "index.js",
